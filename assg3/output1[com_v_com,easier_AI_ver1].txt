@@ -1,0 +1,736 @@
+First player is (1) Computer or (2) Human? 1
+Player X is Computer
+Second player is (1) Computer or (2) Human? 1
+Player O is Computer
+  0 1 2 3 4 5 6 7
+0 . . . . . . . .
+1 . . . . . . . .
+2 . . . . . . . .
+3 . . . O X . . .
+4 . . . X O . . .
+5 . . . . . . . .
+6 . . . . . . . .
+7 . . . . . . . .
+Player X: 2
+Player O: 2
+Player X places to row 3, col 2
+  0 1 2 3 4 5 6 7
+0 . . . . . . . .
+1 . . . . . . . .
+2 . . . . . . . .
+3 . . X X X . . .
+4 . . . X O . . .
+5 . . . . . . . .
+6 . . . . . . . .
+7 . . . . . . . .
+Player X: 4
+Player O: 1
+Player O places to row 2, col 2
+  0 1 2 3 4 5 6 7
+0 . . . . . . . .
+1 . . . . . . . .
+2 . . O . . . . .
+3 . . X O X . . .
+4 . . . X O . . .
+5 . . . . . . . .
+6 . . . . . . . .
+7 . . . . . . . .
+Player X: 3
+Player O: 3
+Player X places to row 4, col 5
+  0 1 2 3 4 5 6 7
+0 . . . . . . . .
+1 . . . . . . . .
+2 . . O . . . . .
+3 . . X O X . . .
+4 . . . X X X . .
+5 . . . . . . . .
+6 . . . . . . . .
+7 . . . . . . . .
+Player X: 5
+Player O: 2
+Player O places to row 4, col 2
+  0 1 2 3 4 5 6 7
+0 . . . . . . . .
+1 . . . . . . . .
+2 . . O . . . . .
+3 . . O O X . . .
+4 . . O X X X . .
+5 . . . . . . . .
+6 . . . . . . . .
+7 . . . . . . . .
+Player X: 4
+Player O: 4
+Player X places to row 2, col 3
+  0 1 2 3 4 5 6 7
+0 . . . . . . . .
+1 . . . . . . . .
+2 . . O X . . . .
+3 . . O X X . . .
+4 . . O X X X . .
+5 . . . . . . . .
+6 . . . . . . . .
+7 . . . . . . . .
+Player X: 6
+Player O: 3
+Player O places to row 5, col 5
+  0 1 2 3 4 5 6 7
+0 . . . . . . . .
+1 . . . . . . . .
+2 . . O X . . . .
+3 . . O O X . . .
+4 . . O X O X . .
+5 . . . . . O . .
+6 . . . . . . . .
+7 . . . . . . . .
+Player X: 4
+Player O: 6
+Player X places to row 2, col 1
+  0 1 2 3 4 5 6 7
+0 . . . . . . . .
+1 . . . . . . . .
+2 . X X X . . . .
+3 . . X O X . . .
+4 . . O X O X . .
+5 . . . . . O . .
+6 . . . . . . . .
+7 . . . . . . . .
+Player X: 7
+Player O: 4
+Player O places to row 3, col 1
+  0 1 2 3 4 5 6 7
+0 . . . . . . . .
+1 . . . . . . . .
+2 . X X X . . . .
+3 . O O O X . . .
+4 . . O X O X . .
+5 . . . . . O . .
+6 . . . . . . . .
+7 . . . . . . . .
+Player X: 6
+Player O: 6
+Player X places to row 4, col 0
+  0 1 2 3 4 5 6 7
+0 . . . . . . . .
+1 . . . . . . . .
+2 . X X X . . . .
+3 . X O O X . . .
+4 X . O X O X . .
+5 . . . . . O . .
+6 . . . . . . . .
+7 . . . . . . . .
+Player X: 8
+Player O: 5
+Player O places to row 1, col 3
+  0 1 2 3 4 5 6 7
+0 . . . . . . . .
+1 . . . O . . . .
+2 . X X O . . . .
+3 . X O O X . . .
+4 X . O X O X . .
+5 . . . . . O . .
+6 . . . . . . . .
+7 . . . . . . . .
+Player X: 7
+Player O: 7
+Player X places to row 2, col 4
+  0 1 2 3 4 5 6 7
+0 . . . . . . . .
+1 . . . O . . . .
+2 . X X X X . . .
+3 . X O O X . . .
+4 X . O X O X . .
+5 . . . . . O . .
+6 . . . . . . . .
+7 . . . . . . . .
+Player X: 9
+Player O: 6
+Player O places to row 3, col 0
+  0 1 2 3 4 5 6 7
+0 . . . . . . . .
+1 . . . O . . . .
+2 . X X X X . . .
+3 O O O O X . . .
+4 X . O X O X . .
+5 . . . . . O . .
+6 . . . . . . . .
+7 . . . . . . . .
+Player X: 8
+Player O: 8
+Player X places to row 0, col 3
+  0 1 2 3 4 5 6 7
+0 . . . X . . . .
+1 . . . X . . . .
+2 . X X X X . . .
+3 O O O O X . . .
+4 X . O X O X . .
+5 . . . . . O . .
+6 . . . . . . . .
+7 . . . . . . . .
+Player X: 10
+Player O: 7
+Player O places to row 1, col 4
+  0 1 2 3 4 5 6 7
+0 . . . X . . . .
+1 . . . X O . . .
+2 . X X O O . . .
+3 O O O O O . . .
+4 X . O X O X . .
+5 . . . . . O . .
+6 . . . . . . . .
+7 . . . . . . . .
+Player X: 7
+Player O: 11
+Player X places to row 6, col 6
+  0 1 2 3 4 5 6 7
+0 . . . X . . . .
+1 . . . X O . . .
+2 . X X O O . . .
+3 O O O X O . . .
+4 X . O X X X . .
+5 . . . . . X . .
+6 . . . . . . X .
+7 . . . . . . . .
+Player X: 11
+Player O: 8
+Player O places to row 1, col 1
+  0 1 2 3 4 5 6 7
+0 . . . X . . . .
+1 . O . X O . . .
+2 . O X O O . . .
+3 O O O X O . . .
+4 X . O X X X . .
+5 . . . . . X . .
+6 . . . . . . X .
+7 . . . . . . . .
+Player X: 10
+Player O: 10
+Player X places to row 5, col 1
+  0 1 2 3 4 5 6 7
+0 . . . X . . . .
+1 . O . X O . . .
+2 . O X O O . . .
+3 O O O X O . . .
+4 X . X X X X . .
+5 . X . . . X . .
+6 . . . . . . X .
+7 . . . . . . . .
+Player X: 12
+Player O: 9
+Player O places to row 0, col 2
+  0 1 2 3 4 5 6 7
+0 . . O X . . . .
+1 . O . O O . . .
+2 . O X O O . . .
+3 O O O X O . . .
+4 X . X X X X . .
+5 . X . . . X . .
+6 . . . . . . X .
+7 . . . . . . . .
+Player X: 11
+Player O: 11
+Player X places to row 1, col 5
+  0 1 2 3 4 5 6 7
+0 . . O X . . . .
+1 . O . O O X . .
+2 . O X O X . . .
+3 O O O X O . . .
+4 X . X X X X . .
+5 . X . . . X . .
+6 . . . . . . X .
+7 . . . . . . . .
+Player X: 13
+Player O: 10
+Player O places to row 1, col 2
+  0 1 2 3 4 5 6 7
+0 . . O X . . . .
+1 . O O O O X . .
+2 . O O O X . . .
+3 O O O X O . . .
+4 X . X X X X . .
+5 . X . . . X . .
+6 . . . . . . X .
+7 . . . . . . . .
+Player X: 12
+Player O: 12
+Player X places to row 0, col 4
+  0 1 2 3 4 5 6 7
+0 . . O X X . . .
+1 . O O X X X . .
+2 . O X O X . . .
+3 O X O X O . . .
+4 X . X X X X . .
+5 . X . . . X . .
+6 . . . . . . X .
+7 . . . . . . . .
+Player X: 17
+Player O: 8
+Player O places to row 0, col 5
+  0 1 2 3 4 5 6 7
+0 . . O O O O . .
+1 . O O X O X . .
+2 . O X O X . . .
+3 O X O X O . . .
+4 X . X X X X . .
+5 . X . . . X . .
+6 . . . . . . X .
+7 . . . . . . . .
+Player X: 14
+Player O: 12
+Player X places to row 0, col 0
+  0 1 2 3 4 5 6 7
+0 X . O O O O . .
+1 . X O X O X . .
+2 . O X O X . . .
+3 O X O X O . . .
+4 X . X X X X . .
+5 . X . . . X . .
+6 . . . . . . X .
+7 . . . . . . . .
+Player X: 16
+Player O: 11
+Player O places to row 5, col 4
+  0 1 2 3 4 5 6 7
+0 X . O O O O . .
+1 . X O X O X . .
+2 . O X O X . . .
+3 O X O X O . . .
+4 X . X O O X . .
+5 . X . . O X . .
+6 . . . . . . X .
+7 . . . . . . . .
+Player X: 14
+Player O: 14
+Player X places to row 2, col 0
+  0 1 2 3 4 5 6 7
+0 X . O O O O . .
+1 . X O X O X . .
+2 X X X O X . . .
+3 X X O X O . . .
+4 X . X O O X . .
+5 . X . . O X . .
+6 . . . . . . X .
+7 . . . . . . . .
+Player X: 17
+Player O: 12
+Player O places to row 1, col 0
+  0 1 2 3 4 5 6 7
+0 X . O O O O . .
+1 O O O X O X . .
+2 X O X O X . . .
+3 X X O X O . . .
+4 X . X O O X . .
+5 . X . . O X . .
+6 . . . . . . X .
+7 . . . . . . . .
+Player X: 15
+Player O: 15
+Player X places to row 6, col 3
+  0 1 2 3 4 5 6 7
+0 X . O O O O . .
+1 O O O X O X . .
+2 X O X O X . . .
+3 X X O X O . . .
+4 X . X O O X . .
+5 . X . . X X . .
+6 . . . X . . X .
+7 . . . . . . . .
+Player X: 17
+Player O: 14
+Player O places to row 6, col 4
+  0 1 2 3 4 5 6 7
+0 X . O O O O . .
+1 O O O X O X . .
+2 X O X O X . . .
+3 X X O X O . . .
+4 X . X O O X . .
+5 . X . . O X . .
+6 . . . X O . X .
+7 . . . . . . . .
+Player X: 16
+Player O: 16
+Player X places to row 0, col 1
+  0 1 2 3 4 5 6 7
+0 X X O O O O . .
+1 O X X X O X . .
+2 X X X X X . . .
+3 X X O X X . . .
+4 X . X O O X . .
+5 . X . . O X . .
+6 . . . X O . X .
+7 . . . . . . . .
+Player X: 22
+Player O: 11
+Player O places to row 2, col 5
+  0 1 2 3 4 5 6 7
+0 X X O O O O . .
+1 O X X X O O . .
+2 X X X X X O . .
+3 X X O X O . . .
+4 X . X O O X . .
+5 . X . . O X . .
+6 . . . X O . X .
+7 . . . . . . . .
+Player X: 20
+Player O: 14
+Player X places to row 4, col 1
+  0 1 2 3 4 5 6 7
+0 X X O O O O . .
+1 O X X X O O . .
+2 X X X X X O . .
+3 X X X X O . . .
+4 X X X O O X . .
+5 . X . . O X . .
+6 . . . X O . X .
+7 . . . . . . . .
+Player X: 22
+Player O: 13
+Player O places to row 5, col 2
+  0 1 2 3 4 5 6 7
+0 X X O O O O . .
+1 O X O X O O . .
+2 X X O X X O . .
+3 X X O X O . . .
+4 X X O O O X . .
+5 . X O . O X . .
+6 . . . X O . X .
+7 . . . . . . . .
+Player X: 18
+Player O: 18
+Player X places to row 3, col 5
+  0 1 2 3 4 5 6 7
+0 X X O O O O . .
+1 O X O X O O . .
+2 X X O X X O . .
+3 X X O X X X . .
+4 X X O O O X . .
+5 . X O . O X . .
+6 . . . X O . X .
+7 . . . . . . . .
+Player X: 20
+Player O: 17
+Player O places to row 7, col 7
+  0 1 2 3 4 5 6 7
+0 X X O O O O . .
+1 O X O X O O . .
+2 X X O X X O . .
+3 X X O X X X . .
+4 X X O O O X . .
+5 . X O . O O . .
+6 . . . X O . O .
+7 . . . . . . . O
+Player X: 18
+Player O: 20
+Player X places to row 0, col 6
+  0 1 2 3 4 5 6 7
+0 X X X X X X X .
+1 O X O X O X . .
+2 X X O X X O . .
+3 X X O X X X . .
+4 X X O O O X . .
+5 . X O . O O . .
+6 . . . X O . O .
+7 . . . . . . . O
+Player X: 24
+Player O: 15
+Player O places to row 2, col 6
+  0 1 2 3 4 5 6 7
+0 X X X X X X X .
+1 O X O X O X . .
+2 X X O X X O O .
+3 X X O X X O . .
+4 X X O O O X . .
+5 . X O . O O . .
+6 . . . X O . O .
+7 . . . . . . . O
+Player X: 23
+Player O: 17
+Player X places to row 4, col 6
+  0 1 2 3 4 5 6 7
+0 X X X X X X X .
+1 O X O X O X . .
+2 X X O X X O O .
+3 X X O X X X . .
+4 X X O O O X X .
+5 . X O . O O . .
+6 . . . X O . O .
+7 . . . . . . . O
+Player X: 25
+Player O: 16
+Player O places to row 5, col 0
+  0 1 2 3 4 5 6 7
+0 X X X X X X X .
+1 O X O X O X . .
+2 O X O X X O O .
+3 O X O X X X . .
+4 O O O O O X X .
+5 O O O . O O . .
+6 . . . X O . O .
+7 . . . . . . . O
+Player X: 20
+Player O: 22
+Player X places to row 6, col 1
+  0 1 2 3 4 5 6 7
+0 X X X X X X X .
+1 O X O X O X . .
+2 O X O X X O O .
+3 O X O X X X . .
+4 O X O X O X X .
+5 O X X . O O . .
+6 . X . X O . O .
+7 . . . . . . . O
+Player X: 25
+Player O: 18
+Player O places to row 3, col 6
+  0 1 2 3 4 5 6 7
+0 X X X X X X X .
+1 O X O X O X . .
+2 O X O X X O O .
+3 O X O O O O O .
+4 O X O X O O X .
+5 O X X . O O . .
+6 . X . X O . O .
+7 . . . . . . . O
+Player X: 21
+Player O: 23
+Player X places to row 6, col 0
+  0 1 2 3 4 5 6 7
+0 X X X X X X X .
+1 X X O X O X . .
+2 X X O X X O O .
+3 X X O O O O O .
+4 X X O X O O X .
+5 X X X . O O . .
+6 X X . X O . O .
+7 . . . . . . . O
+Player X: 27
+Player O: 18
+Player O places to row 5, col 3
+  0 1 2 3 4 5 6 7
+0 X X X X X X X .
+1 X X O X O X . .
+2 X X O X X O O .
+3 X X O O O O O .
+4 X X O O O O X .
+5 X X X O O O . .
+6 X X . X O . O .
+7 . . . . . . . O
+Player X: 26
+Player O: 20
+Player X places to row 1, col 6
+  0 1 2 3 4 5 6 7
+0 X X X X X X X .
+1 X X O X O X X .
+2 X X O X X X X .
+3 X X O O X O X .
+4 X X O X O O X .
+5 X X X O O O . .
+6 X X . X O . O .
+7 . . . . . . . O
+Player X: 32
+Player O: 15
+Player O places to row 1, col 7
+  0 1 2 3 4 5 6 7
+0 X X X X X X X .
+1 X X O X O O O O
+2 X X O X X X O .
+3 X X O O X O X .
+4 X X O X O O X .
+5 X X X O O O . .
+6 X X . X O . O .
+7 . . . . . . . O
+Player X: 29
+Player O: 19
+Player X places to row 3, col 7
+  0 1 2 3 4 5 6 7
+0 X X X X X X X .
+1 X X O X O X O O
+2 X X O X X X X .
+3 X X O O X O X X
+4 X X O X O O X .
+5 X X X O O O . .
+6 X X . X O . O .
+7 . . . . . . . O
+Player X: 32
+Player O: 17
+Player O places to row 6, col 2
+  0 1 2 3 4 5 6 7
+0 X X X X X X X .
+1 X X O X O X O O
+2 X X O X X X X .
+3 X X O O X O X X
+4 X X O X O O X .
+5 X X O O O O . .
+6 X X O O O . O .
+7 . . . . . . . O
+Player X: 30
+Player O: 20
+Player X places to row 2, col 7
+  0 1 2 3 4 5 6 7
+0 X X X X X X X .
+1 X X O X O X X O
+2 X X O X X X X X
+3 X X O O X O X X
+4 X X O X O O X .
+5 X X O O O O . .
+6 X X O O O . O .
+7 . . . . . . . O
+Player X: 32
+Player O: 19
+Player O places to row 0, col 7
+  0 1 2 3 4 5 6 7
+0 X X X X X X X O
+1 X X O X O X O O
+2 X X O X X O X X
+3 X X O O O O X X
+4 X X O O O O X .
+5 X X O O O O . .
+6 X X O O O . O .
+7 . . . . . . . O
+Player X: 28
+Player O: 24
+Player X places to row 7, col 4
+  0 1 2 3 4 5 6 7
+0 X X X X X X X O
+1 X X O X O X O O
+2 X X O X X O X X
+3 X X O O X O X X
+4 X X O O X O X .
+5 X X X O X O . .
+6 X X O X X . O .
+7 . . . . X . . O
+Player X: 35
+Player O: 18
+Player O places to row 7, col 2
+  0 1 2 3 4 5 6 7
+0 X X X X X X X O
+1 X X O X O X O O
+2 X X O X X O X X
+3 X X O O X O X X
+4 X X O O X O X .
+5 X X X O O O . .
+6 X X O O X . O .
+7 . . O . X . . O
+Player X: 33
+Player O: 21
+Player X places to row 7, col 3
+  0 1 2 3 4 5 6 7
+0 X X X X X X X O
+1 X X O X O X O O
+2 X X O X X O X X
+3 X X O X X O X X
+4 X X O X X O X .
+5 X X X X O O . .
+6 X X X X X . O .
+7 . . O X X . . O
+Player X: 39
+Player O: 16
+Player O places to row 4, col 7
+  0 1 2 3 4 5 6 7
+0 X X X X X X X O
+1 X X O X O X O O
+2 X X O X X O X O
+3 X X O X X O O O
+4 X X O X X O O O
+5 X X X X O O . .
+6 X X X X X . O .
+7 . . O X X . . O
+Player X: 35
+Player O: 21
+Player X places to row 5, col 7
+  0 1 2 3 4 5 6 7
+0 X X X X X X X O
+1 X X O X O X O O
+2 X X O X X O X O
+3 X X O X X X O O
+4 X X O X X O X O
+5 X X X X O O . X
+6 X X X X X . O .
+7 . . O X X . . O
+Player X: 38
+Player O: 19
+Player O places to row 7, col 5
+  0 1 2 3 4 5 6 7
+0 X X X X X X X O
+1 X X O X O X O O
+2 X X O X X O X O
+3 X X O X X X O O
+4 X X O X X O X O
+5 X X X O O O . X
+6 X X X X O . O .
+7 . . O O O O . O
+Player X: 34
+Player O: 24
+Player X places to row 6, col 5
+  0 1 2 3 4 5 6 7
+0 X X X X X X X O
+1 X X O X O X O O
+2 X X O X X O X O
+3 X X O X X X O O
+4 X X O X X X X O
+5 X X X O X X . X
+6 X X X X X X O .
+7 . . O O O O . O
+Player X: 39
+Player O: 20
+Player O places to row 7, col 0
+  0 1 2 3 4 5 6 7
+0 X X X X X X X O
+1 X X O X O X O O
+2 X X O X X O X O
+3 X X O X O X O O
+4 X X O O X X X O
+5 X X O O X X . X
+6 X O X X X X O .
+7 O . O O O O . O
+Player X: 35
+Player O: 25
+Player X places to row 7, col 1
+  0 1 2 3 4 5 6 7
+0 X X X X X X X O
+1 X X O X O X O O
+2 X X O X X O X O
+3 X X O X O X O O
+4 X X O O X X X O
+5 X X O O X X . X
+6 X X X X X X O .
+7 O X O O O O . O
+Player X: 37
+Player O: 24
+Player O places to row 5, col 6
+  0 1 2 3 4 5 6 7
+0 X X X X X X X O
+1 X X O X O X O O
+2 X X O X X O X O
+3 X X O X O X O O
+4 X X O O X O O O
+5 X X O O O O O X
+6 X X X X X O O .
+7 O X O O O O . O
+Player X: 32
+Player O: 30
+Player X places to row 7, col 6
+  0 1 2 3 4 5 6 7
+0 X X X X X X X O
+1 X X O X O X O O
+2 X X O X X O X O
+3 X X X X O X X O
+4 X X O X X O X O
+5 X X O O X O X X
+6 X X X X X X X .
+7 O X X X X X X O
+Player X: 45
+Player O: 18
+Player O places to row 6, col 7
+  0 1 2 3 4 5 6 7
+0 X X X X X X X O
+1 X X O X O X O O
+2 X X O X X O X O
+3 X X X X O X X O
+4 X X O X X O X O
+5 X X O O X O O O
+6 X X X X X X X O
+7 O X X X X X X O
+Player X: 43
+Player O: 21
+Player X wins!

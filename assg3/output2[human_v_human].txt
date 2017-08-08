@@ -1,0 +1,68 @@
+First player is (1) Computer or (2) Human? 2
+Player X is Human
+Second player is (1) Computer or (2) Human? 2
+Player O is Human
+  0 1 2 3 4 5 6 7
+0 . . . . . . . .
+1 . . . . . . . .
+2 . . . . . . . .
+3 . . . O X . . .
+4 . . . X O . . .
+5 . . . . . . . .
+6 . . . . . . . .
+7 . . . . . . . .
+Player X: 2
+Player O: 2
+Player X, make a move (row col): 4 5
+Player X places to row 4, col 5
+  0 1 2 3 4 5 6 7
+0 . . . . . . . .
+1 . . . . . . . .
+2 . . . . . . . .
+3 . . . O X . . .
+4 . . . X X X . .
+5 . . . . . . . .
+6 . . . . . . . .
+7 . . . . . . . .
+Player X: 4
+Player O: 1
+Player O, make a move (row col): 5 3
+Player O places to row 5, col 3
+  0 1 2 3 4 5 6 7
+0 . . . . . . . .
+1 . . . . . . . .
+2 . . . . . . . .
+3 . . . O X . . .
+4 . . . O X X . .
+5 . . . O . . . .
+6 . . . . . . . .
+7 . . . . . . . .
+Player X: 3
+Player O: 3
+Player X, make a move (row col): 1 9
+Row 1, col 9 is invalid! Player X passed!
+  0 1 2 3 4 5 6 7
+0 . . . . . . . .
+1 . . . . . . . .
+2 . . . . . . . .
+3 . . . O X . . .
+4 . . . O X X . .
+5 . . . O . . . .
+6 . . . . . . . .
+7 . . . . . . . .
+Player X: 3
+Player O: 3
+Player O, make a move (row col): 5 6
+Row 5, col 6 is invalid! Player O passed!
+  0 1 2 3 4 5 6 7
+0 . . . . . . . .
+1 . . . . . . . .
+2 . . . . . . . .
+3 . . . O X . . .
+4 . . . O X X . .
+5 . . . O . . . .
+6 . . . . . . . .
+7 . . . . . . . .
+Player X: 3
+Player O: 3
+Draw game!
